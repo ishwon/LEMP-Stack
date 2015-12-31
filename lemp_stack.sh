@@ -220,10 +220,6 @@ mysqli.allow_persistent = On
 mysqli.max_links = -1
 mysqli.cache_size = 2000
 mysqli.default_port = 3306
-mysqli.default_socket =
-mysqli.default_host =
-mysqli.default_user =
-mysqli.default_pw =
 mysqli.reconnect = Off
 [mysqlnd]
 mysqlnd.collect_statistics = On
